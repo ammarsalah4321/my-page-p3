@@ -3,7 +3,7 @@
 
 export default function Content() {
     return(
-        <p className="p-0.5 bg-gray-700 font-medium text-cyan-600 text-lg">
+        <p className="p-0.5 bg-stone-800 font-medium text-cyan-600 text-lg">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus blanditiis voluptatibus eaque! 
             Culpa blanditiis enim velit reiciendis omnis quisquam cum deserunt ipsum incidunt nulla quibusdam minus voluptatem, est
              mollitia, amet commodi! 

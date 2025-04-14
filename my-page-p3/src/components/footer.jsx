@@ -3,7 +3,7 @@
 
 export default function Footer() {
     return (
-        <footer className="bg-gray-800 ">
+        <footer className="bg-zinc-900 ">
             <a className="p-0.5 text-blue-800" href="#">link</a>
             <a className="p-0.5 text-blue-800" href="#">link</a>
             <a className="p-0.5 text-blue-800" href="#">link</a>
