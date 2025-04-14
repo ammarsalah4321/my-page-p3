@@ -20,6 +20,7 @@ export default function Content() {
                 expedita. Nihil commodi tenetur necessitatibus at beatae consequatur accusantium. Atque tenetur vitae ea expedita!
                  Voluptas, mollitia. Adipisci ut molestias maiores molestiae amet quod tenetur. 
             Ab quasi dolorum ut ipsum dolores deserunt.
+            
         </p>
     )
 }
