@@ -3,7 +3,7 @@ import { BsWhatsapp, BsLinkedin, BsSnapchat, BsFacebook, BsTelegram, BsTelephone
 
 export default function Nav() {
     return (
-        <nav className="p-2 flex  bg-gray-600">
+        <nav className="p-2 flex  bg-gray-600 sticky top-0 z-50">
             <p className="p-1.5"><BsWhatsapp /></p>
             <p className="p-1.5"><BsLinkedin /></p>
             <p className="p-1.5"><BsSnapchat /></p>
